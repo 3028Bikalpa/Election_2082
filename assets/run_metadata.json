@@ -1,0 +1,12 @@
+{
+  "run_time_utc": "2026-02-18T14:24:18.249940+00:00",
+  "source_hamropatro": "https://election.hamropatro.com",
+  "source_2082live": "https://2082.live",
+  "n_index": 3487,
+  "n_clean": 3487,
+  "n_audit": 0,
+  "clean_file": "/Users/bikki/Documents/Election_2082/candidates_clean.csv",
+  "audit_file": "/Users/bikki/Documents/Election_2082/candidates_audit.csv",
+  "clean_sha256": "8831a287fbf3f4fd5acf92cdf513c440f668b20e05af6062b09f9da5e7e9a26c",
+  "audit_sha256": "36b8822129299c5e08370393ce490488c5b24f8201725c9f7738bfda35397918"
+}
